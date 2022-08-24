@@ -1,0 +1,10 @@
+.shopContainer{
+    background-color: black;
+    color: white ;
+    display: flex;
+    
+  
+}
+.shopProduct{
+    width: 70%;
+}
